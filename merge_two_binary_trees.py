@@ -41,6 +41,7 @@ class MainTestCases(unittest.TestCase):
     def runTest(self):
         # TODO ============================
         # Add test cases. Passed on leetcode
+        pass
 
 
 if __name__ == '__main__':
