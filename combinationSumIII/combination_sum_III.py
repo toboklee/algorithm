@@ -2,13 +2,6 @@ import unittest
 from itertools import combinations
 
 
-class TreeNode(object):
-    def __init__(self, x):
-        self.val = x
-        self.left = None
-        self.right = None
-
-
 class Solution(object):
     def combinationSum3(self, k, n):
         """
