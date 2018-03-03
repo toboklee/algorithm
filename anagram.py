@@ -6,7 +6,7 @@ class Solution(object):
     def is_anagram(s, t):
         """
         :type s: str
-        :type t: str
+        :type t: str abc
         :rtype: bool
         """
 
