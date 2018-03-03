@@ -5,7 +5,7 @@ class Solution(object):
     @staticmethod
     def is_anagram(s, t):
         """
-        :type s: str
+        :type s: st r fewfwefawfewafewaf
         :type t: str
         :rtype: bool
         """
